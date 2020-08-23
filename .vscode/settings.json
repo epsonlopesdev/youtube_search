@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "**/.cache": true,
+        "**/*.g.dart": true,
+        "**/*.pyc": true,
+        "**/SnakeEyes_CLI.egg-info": true
+    }
+}
