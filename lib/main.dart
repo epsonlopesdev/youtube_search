@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MyHomePage(title: 'Epson Youtube Search!'),
+      home: MyHomePage(title: 'Buscador de Videos by epson!'),
     );
   }
 }
